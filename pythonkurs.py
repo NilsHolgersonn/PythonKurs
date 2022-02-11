@@ -1,1 +1,0 @@
-print('Das liegt im github folder pythonkurs')
