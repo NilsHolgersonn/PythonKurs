@@ -1,2 +1,2 @@
-# PythonKurs klapt es jetzt?
+# PythonKurs klapt es jetzt Digga?
 # Das ist von Github
